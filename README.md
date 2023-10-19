@@ -12,12 +12,7 @@ functions were given by Kutschera & Kotlorz (1993).
 New EOS can be replaced with the ones presented here and the numerical 
 calculating functions should be self consistent. It is critical, however, that the EOS are 
 a function of the baryon density and the initial conditions such as initial radius, mass, and
-baryon density are specified. For the EOS presented here, you can use the following initial conditions
-
-h = (any value < 1, smaller values gives more precision but will run longer)\\
-R_0 = 0\\
-t0 = 0.5 (For UV14-TN1 use t0 = 0.829)\\
-u0 = 0\\
+baryon density are specified.
 
 Make sure to install the following packages:
 
