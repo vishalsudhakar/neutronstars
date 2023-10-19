@@ -16,8 +16,11 @@ a function of the baryon density and the initial conditions such as initial radi
 baryon density are specified. For the EOS presented here, you can use the following initial conditions
 
 h = (any value < 1, smaller value more precision but will run longer)
+
 R0 = 0
+
 t0 = 0.5 (For UV14-TN1 use t0 = 0.829)
+
 u0 = 0
 
 Make sure to install the following packages:
