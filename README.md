@@ -24,10 +24,10 @@ u0 = 0
 
 Make sure to install the following packages:
 
-numpy
+  - numpy
 
-matplotlib
+  - matplotlib
 
-math
+  - math
 
 Feel free to contact me regarding any question at vsudhakar7@gatech.edu
