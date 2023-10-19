@@ -1,6 +1,6 @@
 # Numerical Calculation of Mass and Radius for an EOS of Neutron Stars
 The library includes a 4th order Runga Kutta
-method to numerical solve the Relativistic Hydrodynamical 
+method to numerically solve the Relativistic Hydrodynamical 
 Equations given an Equation of State. 
 
 Following Oppenheimer & Volkoff (1939) and Chandrasekher (1957)
