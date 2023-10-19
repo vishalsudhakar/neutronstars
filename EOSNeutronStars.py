@@ -4,8 +4,7 @@ method to numerical solve the Relativistic Hydrodynamical
 Equations given an Equation of State. 
 
 Following Oppenheimer & Volkoff (1939) and Chandrasekher (1957)
-the equations are re-written in terms of dimensionless quantities. I shall include 
-a document illustrating the transformations.
+the equations are re-written in terms of dimensionless quantities.
 
 The Equations of States (EOS) used here were derived by Wiringa et al (1988) and the fit
 functions were given by Kutschera & Kotlorz (1993).
