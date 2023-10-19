@@ -24,4 +24,4 @@ Make sure to install the following packages:
 
   - math
 
-Feel free to contact me regarding any question at vsudhakar7@gatech.edu
+Feel free to contact me regarding any questions at vsudhakar7@gatech.edu
