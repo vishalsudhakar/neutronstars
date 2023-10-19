@@ -14,6 +14,8 @@ calculating functions should be self consistent. It is critical, however, that t
 a function of the baryon density and the initial conditions such as initial radius, mass, and
 baryon density are specified.
 
+EOSNeutronStars.py is the primary file which includes the various required function to perform the numerical calculations. The example.py file an example on how to use the package. 
+
 Make sure to install the following packages:
 
   - numpy
